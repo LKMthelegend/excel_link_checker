@@ -1,0 +1,18 @@
+# Ignorer un fichier spécifique
+CheckerLinkOnExcel.py
+CheckLinkOnExcelFile.py
+ChecklinksExcel.py
+
+# Ignorer un dossier et son contenu
+Output/
+build/
+dist/
+.venv/
+
+# Ignorer tous les fichiers avec une extension spécifique
+*.log
+*.spec
+*.iss
+
+
+
